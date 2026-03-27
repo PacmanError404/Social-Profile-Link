@@ -12,7 +12,7 @@ html,body{
 }
 
 body{
-    display: flex;
+    display: grid;
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -30,9 +30,9 @@ body{
     justify-content: center;
     align-items: center;
     display: block;
-    width: 22%;
+    width: 100%;
     padding: 15px;
-    height: 68%;
+    height:70%;
     border-radius: 5px;
 }
 .photo{
