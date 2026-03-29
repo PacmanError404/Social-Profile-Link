@@ -11,23 +11,22 @@ The designs were created to the following widths:
 
 ## Colors
 
-- Green: #c5f82a
+- Yellow: #f4d04e
 
-- White: #ffffff
+- White: hsl(0, 0%, 100%)
 
-- Grey 700: #333333
-- Grey 800: #1f1f1f
-- Grey 900: #141414
+- Gray 500: hsl(0, 0%, 42%)
+- Gray 950: hsl(0, 0%, 7%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size (paragraph): 14px
+- Font size (paragraph): 16px
 
 ### Font
 
-- Family: [Inter](https://fonts.google.com/specimen/Inter)
-- Weights: 400, 600, 700
+- Family: [Figtree](https://fonts.google.com/specimen/Figtree)
+- Weights: 500, 800
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a basic design system to help you build a more accurate solution faster.
+> 💎 This is a free+ challenge. So, if you want to see all the design details and practice working with professional tools like Figma, you can download the design file from where you downloaded the starter code.
